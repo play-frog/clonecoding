@@ -1,0 +1,4 @@
+.nav-link.active {
+     font-size:  24px;
+      color: rgb(241, 91, 206);/* 원하는 색상으로 변경 */
+}
